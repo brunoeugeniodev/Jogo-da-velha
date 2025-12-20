@@ -1,7 +1,6 @@
 # 🎮 Jogo da Velha - Visualg
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/2d3748/ffffff?text=Jogo+da+Velha+em+Portugol" alt="Capa do Projeto" width="100%">
   <br>
   <img src="https://img.shields.io/badge/Status-Concluído-success" alt="Status">
   <img src="https://img.shields.io/badge/Linguagem-Portugol-blueviolet" alt="Linguagem">
@@ -67,9 +66,9 @@ O jogo implementa uma partida clássica de **Jogo da Velha** entre dois jogadore
   
 | Menu Principal | Tabuleiro em Jogo | Vitória |
 |:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/250x150/4a5568/ffffff?text=Menu+Principal" width="250"> | <img src="https://via.placeholder.com/250x150/4a5568/ffffff?text=Partida+Ativa" width="250"> | <img src="https://via.placeholder.com/250x150/4a5568/ffffff?text=Tela+de+Vitória" width="250"> |
+| <img src="https://images/menu" width="250"> | <img src="https://images/tabuleiro" width="250"> | <img src="https://images/vencedor" width="250"> |
 | **Cadastro** | **Placar** | **Estatísticas** |
-| <img src="https://via.placeholder.com/250x150/4a5568/ffffff?text=Cadastro+Jogadores" width="250"> | <img src="https://via.placeholder.com/250x150/4a5568/ffffff?text=Placar+Atual" width="250"> | <img src="https://via.placeholder.com/250x150/4a5568/ffffff?text=Estatísticas" width="250"> |
+| <img src="https://images/jogadores" width="250"> | <img src="https://images/placar" width="250"> | <img src="https://images/estatistica" width="250"> |
 
 </div>
 
