@@ -66,9 +66,9 @@ O jogo implementa uma partida clássica de **Jogo da Velha** entre dois jogadore
   
 | Menu Principal | Tabuleiro em Jogo | Vitória |
 |:---:|:---:|:---:|
-| <img src="https://images/menu" width="250"> | <img src="https://images/tabuleiro" width="250"> | <img src="https://images/vencedor" width="250"> |
+| <img src="images/menu.png" width="250"> | <img src="images/tabuleiro.png" width="250"> | <img src="images/vencedor.png" width="250"> |
 | **Cadastro** | **Placar** | **Estatísticas** |
-| <img src="https://images/jogadores" width="250"> | <img src="https://images/placar" width="250"> | <img src="https://images/estatistica" width="250"> |
+| <img src="images/jogadores.png" width="250"> | <img src="images/placar.png" width="250"> | <img src="images/estatistica.png" width="250"> |
 
 </div>
 
